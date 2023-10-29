@@ -53,10 +53,11 @@ Frontend mobile-first PWA to distribute documents across an organization.
 
 - **Document Tag Manager**  
 PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS  
-Backend PWA to classify and distribute documents across an organization. 
+Backend PWA to classify and distribute documents across an organization.  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c1b3rt00lk1t&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c1b3rt00lk1t&theme=dark&background=000000)](https://git.io/streak-stats)  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1b3rt00lk1t&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
