@@ -7,6 +7,12 @@
 - 🥊 IT is both my job and my hobby. When I am not programming or learning about IT, I like to play chess, practice some boxing or enjoying a BBQ with my friends. 
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
 
+### Skills : 
+:javascript: 
+:typescript:
+:html5: 
+:css: 
+
 ### :computer: Projects :
 - [Timelines PWA](Link to Repo/Demo): A brief description of the project.
 <!--
