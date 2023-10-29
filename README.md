@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning... you are always learning in this world, learning never ends!
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
 
-###  :hammer_and_wrench:  Technical Skills : 
+###  :hammer_and_wrench:  Technical Skills (current stack): 
 - **TypeScript** · **JavaScript** · **React**  
 - **Jest** · **Testing Library** · **Cypress**  
 - **Next** · **PWA** · **Workbox**  
