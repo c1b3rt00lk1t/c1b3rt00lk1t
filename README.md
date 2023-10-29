@@ -7,7 +7,7 @@
 - 🥊 IT is both my job and my hobby. When I am not programming or learning about IT, I like to play chess, practice some boxing or enjoying a BBQ with my friends. 
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
 
-###  :hammer:  Technical Skills : 
+###  :hammer_and_wrench:  Technical Skills : 
 :javascript 
 :typescript
 :html5 
