@@ -4,7 +4,7 @@
 - 👯 After a well merited sabbatical, **currently looking for a job**.  Interested in **remote work** and **flexibility**, open to **part-time** and **travelling**.
 - 🌱 I’m currently learning... you are always learning in this world, learning never ends!
 - ⚡ Fun fact: I must admit that I used to have a wrongly biassed opinion about Javascript, but the ES6+ revolution was a delightful surprise and getting to know Typescript completed my full conversion :)
-- 🥊 IT is both my job and my hobby. When I am not programming or learning about IT, I like to play **chess**, practice some **boxing** or enjoying a **BBQ** with my friends. 
+- 🥊 :meat_on_bone: :man_cook: :books: IT is both my job and my hobby. When I am not programming or learning about IT, I like to play **chess**, practice some **boxing** or enjoying a **BBQ** with my friends. 
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
 
 ###  :hammer_and_wrench:  Technical Skills : 
