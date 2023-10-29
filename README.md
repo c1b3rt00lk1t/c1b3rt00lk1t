@@ -35,6 +35,9 @@
 - **Teamwork** · **Communication**
 - **Requirement analysis**
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c1b3rt00lk1t&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ### :computer: Projects :
 - [Timelines PWA](Link to Repo/Demo): A brief description of the project.
 
