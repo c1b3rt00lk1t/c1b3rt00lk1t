@@ -18,7 +18,10 @@
 - **HTML5** · **CSS3**  
 - **OOP** · **FP** · **TDD**
 
-### :thinking: or :thought_balloon: :speech_balloon: or :mega: :deciduous_tree: :file_folder: :chart_with_upwards_trend: or :mag: :+1: :handshake: :two_men_holding_hands: :raised_hands: :busts_in_silhouette:
+### :busts_in_silhouette: Other Skills:
+- **Agile** · **Scrum** · ** SAFe**
+- **Teamwork** · **Communication**
+- **Requirement analysis**
 
 ### :computer: Projects :
 - [Timelines PWA](Link to Repo/Demo): A brief description of the project.
