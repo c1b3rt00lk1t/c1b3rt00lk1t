@@ -44,15 +44,15 @@
 
 ### :computer: Showcase Projects :
 - **Maximize Your Impact**  
-<small>PWA · TYPESCRIPT · FIREBASE · CSS MODULES · CYPRESS</small>  
+PWA · TYPESCRIPT · FIREBASE · CSS MODULES · CYPRESS
 Desktop and mobile PWA to enable the priorization of tasks using several variants of an Impact/Effort matrix.
 
 - **Document Distribution**  
-<small>PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS</small>  
+PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS
 Frontend mobile-first PWA to distribute documents across an organization.
 
-- Document Tag Manager  
-<small>PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS</small>  
+- **Document Tag Manager**  
+PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS  
 Backend PWA to classify and distribute documents across an organization. 
 
 ### :fire: My Stats :
