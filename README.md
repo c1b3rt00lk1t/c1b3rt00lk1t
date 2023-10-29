@@ -27,13 +27,7 @@
 ### :computer: Projects :
 - [Timelines PWA](Link to Repo/Demo): A brief description of the project.
 
-:dart: - Represents aiming for goals or targets.
-:chart_with_upwards_trend: - Signifies growth, improvement, and progress.
-:arrows_counterclockwise: - Symbolizes change, transformation, and adaptation.
-:rocket: - Represents advancement and taking off toward new horizons.
-:heavy_check_mark: - Conveys achievements and milestones in your career.
-:books: - Signifies continuous learning and the accumulation of knowledge.
-:globe_with_meridians: - Indicates a global or diverse career journey.
+
 <!--
 **c1b3rt00lk1t/c1b3rt00lk1t** is a 🥊 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
