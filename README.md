@@ -35,13 +35,18 @@
 - **Teamwork** · **Communication**
 - **Requirement analysis**
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c1b3rt00lk1t&theme=dark&background=000000)](https://git.io/streak-stats)
+### :globe_with_meridians: Languages:
+- **English**
+- **Spanish**
+- **Catalan**
+- **Italian**
+- **Esperanto**
 
 ### :computer: Projects :
 - [Timelines PWA](Link to Repo/Demo): A brief description of the project.
 
-
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c1b3rt00lk1t&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **c1b3rt00lk1t/c1b3rt00lk1t** is a 🥊 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
