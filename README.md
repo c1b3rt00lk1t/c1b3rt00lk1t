@@ -8,10 +8,10 @@
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
 
 ### Skills : 
-:javascript: 
-:typescript:
-:html5: 
-:css: 
+:javascript 
+:typescript
+:html5 
+:css 
 
 ### :computer: Projects :
 - [Timelines PWA](Link to Repo/Demo): A brief description of the project.
