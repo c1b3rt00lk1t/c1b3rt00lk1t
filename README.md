@@ -9,7 +9,8 @@
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
 
 ###  :hammer_and_wrench:  Technical Skills:
-<small><i># current stack</i></small>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+
 - **TypeScript** · **JavaScript** · **React**  
 - **Jest** · **Testing Library** · **Cypress**  
 - **Next** · **PWA** · **Workbox**  
