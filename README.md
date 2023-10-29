@@ -9,6 +9,16 @@
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
 
 ###  :hammer_and_wrench:  Technical Skills:
+- **TypeScript** · **JavaScript** · **React**  
+- **Jest** · **Testing Library** · **Cypress**  
+- **Next** · **PWA** · **Workbox**  
+- **MSSQL** · **DB2** · **Firestore**  
+- **Webpack** · **DevTools**  
+- **Netlify** · **Firebase** · **Vercel**  
+- **ALM** · **JIRA** · **GIT**  
+- **HTML5** · **CSS3**  
+- **OOP** · **FP** · **TDD**
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -19,18 +29,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-
-
-
-- **TypeScript** · **JavaScript** · **React**  
-- **Jest** · **Testing Library** · **Cypress**  
-- **Next** · **PWA** · **Workbox**  
-- **MSSQL** · **DB2** · **Firestore**  
-- **Webpack** · **DevTools**  
-- **Netlify** · **Firebase** · **Vercel**  
-- **ALM** · **JIRA** · **GIT**  
-- **HTML5** · **CSS3**  
-- **OOP** · **FP** · **TDD**
 
 ### :busts_in_silhouette: Other Skills:
 - **Agile** · **Scrum** · **SAFe**
