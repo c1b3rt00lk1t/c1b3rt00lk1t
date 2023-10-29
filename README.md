@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 
-- 🔭 I’m a Software Engineer with 16 years of experience, convinced Scrum/SAFe practitioner, currently enjoying the full-stack JavaScript ES6+ and Typescript ecosystem.
+- 🔭 I’m a Software Engineer with 16 years of experience, convinced Scrum/SAFe practitioner, currently enjoying the full-stack JavaScript ES6+ ecosystem with focus on testing and scalability with Typescript.
 - 👯 After a well merited sabbatical, currently looking for a job.
 - 🌱 I’m currently learning... you are always learning in this world, learning never ends!
 - ⚡ Fun fact: I must admit that I used to have a wrongly biassed opinion about Javascript, but the ES6+ revolution was a delightful surprise and getting to know Typescript completed my full conversion :)
@@ -8,10 +8,16 @@
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
 
 ###  :hammer_and_wrench:  Technical Skills : 
-:javascript 
-:typescript
-:html5 
-:css 
+TypeScript · JavaScript · React
+Jest · Testing Library · Cypress
+Next · PWA · Workbox
+MSSQL · DB2 · Firestore 
+Webpack · DevTools
+Netlify · Firebase · Vercel
+ALM · JIRA · GIT
+HTML5 · CSS3 
+OOP · FP · TDD
+
 
 ### :computer: Projects :
 - [Timelines PWA](Link to Repo/Demo): A brief description of the project.
