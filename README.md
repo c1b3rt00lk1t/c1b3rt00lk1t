@@ -44,11 +44,11 @@
 
 ### :computer: Showcase Projects :
 - **Maximize Your Impact**  
-PWA · TYPESCRIPT · FIREBASE · CSS MODULES · CYPRESS
+PWA · TYPESCRIPT · FIREBASE · CSS MODULES · CYPRESS  
 Desktop and mobile PWA to enable the priorization of tasks using several variants of an Impact/Effort matrix.
 
 - **Document Distribution**  
-PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS
+PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS  
 Frontend mobile-first PWA to distribute documents across an organization.
 
 - **Document Tag Manager**  
