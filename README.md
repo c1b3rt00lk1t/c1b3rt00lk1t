@@ -19,7 +19,7 @@
 - **OOP** · **FP** · **TDD**
 
 ### :busts_in_silhouette: Other Skills:
-- **Agile** · **Scrum** · ** SAFe**
+- **Agile** · **Scrum** · **SAFe**
 - **Teamwork** · **Communication**
 - **Requirement analysis**
 
