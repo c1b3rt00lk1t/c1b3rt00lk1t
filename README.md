@@ -43,16 +43,16 @@
 - **Esperanto**
 
 ### :computer: Showcase Projects :
-- Maximize Your Impact  
-PWA · TYPESCRIPT · FIREBASE · CSS MODULES · CYPRESS  
+- **Maximize Your Impact**  
+<small>PWA · TYPESCRIPT · FIREBASE · CSS MODULES · CYPRESS</small>  
 Desktop and mobile PWA to enable the priorization of tasks using several variants of an Impact/Effort matrix.
 
-- Document Distribution  
-PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS  
+- **Document Distribution**  
+<small>PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS</small>  
 Frontend mobile-first PWA to distribute documents across an organization.
 
 - Document Tag Manager  
-PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS  
+<small>PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS</small>  
 Backend PWA to classify and distribute documents across an organization. 
 
 ### :fire: My Stats :
