@@ -9,7 +9,7 @@
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
 
 ###  :hammer_and_wrench:  Technical Skills:
-<small><i># (current stack)</i></small>
+<small><i># current stack</i></small>
 - **TypeScript** · **JavaScript** · **React**  
 - **Jest** · **Testing Library** · **Cypress**  
 - **Next** · **PWA** · **Workbox**  
