@@ -42,8 +42,18 @@
 - **Italian**
 - **Esperanto**
 
-### :computer: Projects :
-- [Timelines PWA](Link to Repo/Demo): A brief description of the project.
+### :computer: Showcase Projects :
+- Maximize Your Impact (2023)
+PWA · TYPESCRIPT · FIREBASE · CSS MODULES · CYPRESS
+Desktop and mobile PWA to enable the priorization of tasks using several variants of an Impact/Effort matrix.
+
+- Document Distribution (2021-2023)
+PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS
+Frontend mobile-first PWA to distribute documents across an organization.
+
+- Document Tag Manager (2021-2023)
+PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS
+Backend PWA to classify and distribute documents across an organization. 
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c1b3rt00lk1t&theme=dark&background=000000)](https://git.io/streak-stats)
