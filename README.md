@@ -43,15 +43,15 @@
 - **Esperanto**
 
 ### :computer: Showcase Projects :
-- Maximize Your Impact (2023)  
+- Maximize Your Impact  
 PWA · TYPESCRIPT · FIREBASE · CSS MODULES · CYPRESS  
 Desktop and mobile PWA to enable the priorization of tasks using several variants of an Impact/Effort matrix.
 
-- Document Distribution (2021-2023)  
+- Document Distribution  
 PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS  
 Frontend mobile-first PWA to distribute documents across an organization.
 
-- Document Tag Manager (2021-2023)  
+- Document Tag Manager  
 PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS  
 Backend PWA to classify and distribute documents across an organization. 
 
