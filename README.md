@@ -1,7 +1,8 @@
 ### :man_technologist: About Me :
 
 - 🔭 I’m a **Software Engineer** with 16 years of experience, convinced **Scrum/SAFe** practitioner, currently enjoying the **full-stack JavaScript ES6+** ecosystem with focus on **testing** and scalability with **Typescript**.
-- 👯 After a well merited sabbatical, **currently looking for a job**.  Interested in **remote work** and **flexibility**, open to **part-time** and **travelling**.
+- :dart: After a well-deserved sabbatical dedicated to Deep dive into web development and cibersecurity tecnologies, **currently looking for a job**. Interested in **remote work** and **flexibility**, open to **part-time** and **travelling**.
+- :arrows_counterclockwise:  I started my programming journey with C programs running in DSPs (digital signal processors) and then I have spent a decade working in Datawarehousing, before I rediscovered Javascript...
 - ⚡ Fun fact: I must admit that I used to have a wrongly biassed opinion about Javascript, but the ES6+ revolution was a delightful surprise and getting to know Typescript completed my full conversion :)
 - 🥊 IT is both my job and my hobby. When I am not programming or learning about IT, I like to play **chess**, practice some **boxing** or enjoying a **BBQ** with my friends.
 - 🌱 I’m currently learning... you are always learning in this world, learning never ends!
