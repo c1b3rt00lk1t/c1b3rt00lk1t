@@ -8,15 +8,15 @@
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
 
 ###  :hammer_and_wrench:  Technical Skills : 
-TypeScript · JavaScript · React
-Jest · Testing Library · Cypress
-Next · PWA · Workbox
-MSSQL · DB2 · Firestore 
-Webpack · DevTools
-Netlify · Firebase · Vercel
-ALM · JIRA · GIT
-HTML5 · CSS3 
-OOP · FP · TDD
+TypeScript · JavaScript · React  
+Jest · Testing Library · Cypress  
+Next · PWA · Workbox  
+MSSQL · DB2 · Firestore  
+Webpack · DevTools  
+Netlify · Firebase · Vercel  
+ALM · JIRA · GIT  
+HTML5 · CSS3  
+OOP · FP · TDD  
 
 
 ### :computer: Projects :
