@@ -36,11 +36,7 @@
 - **Requirement analysis**
 
 ### :globe_with_meridians: Languages:
-- **English**
-- **Spanish**
-- **Catalan**
-- **Italian**
-- **Esperanto**
+- I speak **English**, **Spanish**, **Catalan**, **Italian** and **Esperanto**
 
 ### :computer: Showcase Projects :
 - **Maximize Your Impact**  
