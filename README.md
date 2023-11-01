@@ -39,17 +39,10 @@
 - I speak **English**, **Spanish**, **Catalan**, **Italian** and **Esperanto**
 
 ### :computer: Showcase Projects :
-- **Maximize Your Impact**  
-PWA · TYPESCRIPT · FIREBASE · CSS MODULES · CYPRESS  
-Desktop and mobile PWA to enable the priorization of tasks using several variants of an Impact/Effort matrix.
-
-- **Document Distribution**  
-PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS  
-Frontend mobile-first PWA to distribute documents across an organization.
-
-- **Document Tag Manager**  
-PWA · JAVASCRIPT · REACT · FIREBASE · NETLIFY · CYPRESS  
-Backend PWA to classify and distribute documents across an organization.
+- **Study Timeline**  
+PWA · JAVASCRIPT · FIREBASE · WEBPACK · CSS · BOOTSTRAP · CYPRESS  
+Desktop and mobile PWA that allows to visualize a timeline with details.
+It also has a "study mode" in which the items of the timeline are prompted to be answered.
 
 
 ### :compass: My Stats :
