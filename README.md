@@ -39,6 +39,10 @@
 - I speak **English**, **Spanish**, **Catalan**, **Italian** and **Esperanto**
 
 ### :computer: Showcase Projects :
+- **PDF Utils**  
+PWA · TYPESCRIPT · VITE · CSS MODULES · CYPRESS
+Desktop and mobile PWA to enable useful manipulation of pdf files such as combine, split and page numbering.
+The app can be found <a href= 'https://idyllic-capybara-5d7110.netlify.app/'>here</a>. The code and technical details can be checked <a href="[https://github.com/c1b3rt00lk1t/studyTimeline](https://github.com/c1b3rt00lk1t/pdf-poc)">here</a>
 - **Study Timeline**  
 PWA · JAVASCRIPT · FIREBASE · WEBPACK · CSS · BOOTSTRAP · CYPRESS  
 Desktop and mobile PWA that allows to visualize a timeline with details.
