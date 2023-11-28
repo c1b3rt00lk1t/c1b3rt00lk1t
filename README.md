@@ -44,10 +44,10 @@ PWA · TYPESCRIPT · VITE · REACT · CSS MODULES · CYPRESS
 Desktop and mobile PWA to enable useful manipulation of pdf files such as combine, split and page numbering.
 The app can be found <a href= 'https://idyllic-capybara-5d7110.netlify.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/pdf-poc">here</a>.
 
-- **Free Tabata**
-PWA · JAVASCRIPT · REACT · NETLIFY
+- **Free Tabata**  
+PWA · JAVASCRIPT · REACT · NETLIFY  
 Tabata Timer PWA which can be installed in desktop or mobile to workout offline. The flicker mode during workout can be disabled using the settings.
-The app can be found <a href= 'https://dulcet-taiyaki-50a307.netlify.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/pdf-poc">here</a>.
+The app can be found <a href= 'https://dulcet-taiyaki-50a307.netlify.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/free-tabata">here</a>.
 
 - **Study Timeline**  
 PWA · JAVASCRIPT · FIREBASE · WEBPACK · CSS · BOOTSTRAP · CYPRESS  
