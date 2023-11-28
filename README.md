@@ -42,12 +42,13 @@
 - **PDF Utils**  
 PWA · TYPESCRIPT · VITE · CSS MODULES · CYPRESS
 Desktop and mobile PWA to enable useful manipulation of pdf files such as combine, split and page numbering.
-The app can be found <a href= 'https://idyllic-capybara-5d7110.netlify.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/pdf-poc">here</a>
+The app can be found <a href= 'https://idyllic-capybara-5d7110.netlify.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/pdf-poc">here</a>.
+
 - **Study Timeline**  
 PWA · JAVASCRIPT · FIREBASE · WEBPACK · CSS · BOOTSTRAP · CYPRESS  
 Desktop and mobile PWA that allows to visualize a timeline with details.
 It also has a "study mode" in which the items of the timeline are prompted to be answered.
-The app can be found <a href= 'https://studytimeline-c92b5.web.app'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/studyTimeline">here</a>
+The app can be found <a href= 'https://studytimeline-c92b5.web.app'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/studyTimeline">here</a>.
 
 
 ### :compass: My Stats :
