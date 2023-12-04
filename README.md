@@ -1,5 +1,4 @@
 ### :man_technologist: About Me 
-### :man_technologist: About Me :
 
 - 🔭 I’m a **Software Engineer** with 16 years of experience, convinced **Scrum/SAFe** practitioner, currently enjoying the **JavaScript ES6+** ecosystem with focus on **testing** and scalability with **Typescript**.
 - :dart: After a well-deserved sabbatical dedicated to deep dive into web development and cibersecurity tecnologies, I'm **currently looking for a job**, interested in **remote work** and **flexibility**, open to **part-time** and **travelling**.
@@ -9,7 +8,7 @@
 - 🌱 I’m currently learning... you are always learning in this world, learning never ends!
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
 
-###  :hammer_and_wrench:  Technical Skills:
+###  :hammer_and_wrench:  Technical Skills
 - **TypeScript** · **JavaScript** · **React**  
 - **Jest** · **Testing Library** · **Cypress**  
 - **PWA** · **Workbox** · **Next** 
@@ -31,15 +30,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
-### :busts_in_silhouette: Other Skills:
+### :busts_in_silhouette: Other Skills
 - **Agile** · **Scrum** · **SAFe**
 - **Teamwork** · **Communication**
 - **Requirement analysis**
 
-### :globe_with_meridians: Languages:
+### :globe_with_meridians: Languages
 - I speak **English**, **Spanish**, **Catalan**, **Italian** and **Esperanto**
 
-### :computer: Showcase Projects :
+### :computer: Showcase Projects 
 - **PDF Utils**  
 PWA · TYPESCRIPT · VITE · REACT · CSS MODULES · CYPRESS  
 Desktop and mobile PWA to enable useful manipulation of pdf files such as combine or split files and number or rotates pages.
@@ -57,22 +56,8 @@ It also has a "study mode" in which the items of the timeline are prompted to be
 The app can be found <a href= 'https://studytimeline-c92b5.web.app'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/studyTimeline">here</a>.
 
 
-### :compass: My Stats :
+### :compass: My Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1b3rt00lk1t&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c1b3rt00lk1t&theme=dark&background=000000)](https://git.io/streak-stats)  
 
-<!--
-**c1b3rt00lk1t/c1b3rt00lk1t** is a 🥊 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
