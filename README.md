@@ -1,4 +1,4 @@
-### :man_technologist: About Me :
+### :man_technologist: About Me 
 ### :man_technologist: About Me :
 
 - 🔭 I’m a **Software Engineer** with 16 years of experience, convinced **Scrum/SAFe** practitioner, currently enjoying the **JavaScript ES6+** ecosystem with focus on **testing** and scalability with **Typescript**.
