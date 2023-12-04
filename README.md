@@ -11,7 +11,7 @@
 ###  :hammer_and_wrench:  Technical Skills:
 - **TypeScript** · **JavaScript** · **React**  
 - **Jest** · **Testing Library** · **Cypress**  
-- **Next** · **PWA** · **Workbox**  
+- **PWA** · **Workbox** · **Next** 
 - **MSSQL** · **DB2** · **Firestore**  
 - **Webpack** · **DevTools**  
 - **Netlify** · **Firebase** · **Vercel**  
@@ -40,7 +40,7 @@
 
 ### :computer: Showcase Projects :
 - **PDF Utils**  
-PWA · TYPESCRIPT · VITE · REACT · CSS MODULES · CYPRESS
+PWA · TYPESCRIPT · VITE · REACT · CSS MODULES · CYPRESS  
 Desktop and mobile PWA to enable useful manipulation of pdf files such as combine, split and page numbering.
 The app can be found <a href= 'https://idyllic-capybara-5d7110.netlify.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/pdf-poc">here</a>.
 
