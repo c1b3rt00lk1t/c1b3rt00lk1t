@@ -41,7 +41,7 @@
 ### :computer: Showcase Projects :
 - **PDF Utils**  
 PWA · TYPESCRIPT · VITE · REACT · CSS MODULES · CYPRESS  
-Desktop and mobile PWA to enable useful manipulation of pdf files such as combine, split and page numbering.
+Desktop and mobile PWA to enable useful manipulation of pdf files such as combine or split files and number or rotates pages.
 The app can be found <a href= 'https://idyllic-capybara-5d7110.netlify.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/pdf-poc">here</a>.
 
 - **Free Tabata**  
