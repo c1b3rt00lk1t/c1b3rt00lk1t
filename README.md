@@ -46,7 +46,7 @@ The app can be found <a href= 'https://idyllic-capybara-5d7110.netlify.app/'>her
 
 - **Document Tag Manager & Uploaders**
 <div>
- <img src="https://github.com/c1b3rt00lk1t/press-uploader-prototype/blob/demo/images/uploader.png?raw=true" width="20%" height="20%" >
+ <img src="https://github.com/c1b3rt00lk1t/press-uploader-prototype/blob/demo/images/uploader.png?raw=true" width="5%" height="5%" >
 <span>
 PWA · JAVASCRIPT · REACT · FIREBASE · CYPRESS    
 Backend PWA to classify pdf documents with tags and upload them in order to be accessed form across an organization.
