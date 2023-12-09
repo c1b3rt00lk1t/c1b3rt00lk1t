@@ -50,7 +50,7 @@ Backend PWA to classify pdf documents with tags and upload them in order to be a
 The app can be found <a href= 'https://press-uploader-demo.web.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/press-uploader-prototype/">here</a>.
   
 - **Press Reader**  
-PWA · JAVASCRIPT · REACT · FIREBASE 
+PWA · JAVASCRIPT · REACT · FIREBASE  
 Frontend mobile-first PWA to distribute documents across an organization.
 The app can be found <a href= 'https://press-reader-demo.web.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/press-reader-prototype/">here</a>.
 
