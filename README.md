@@ -45,7 +45,7 @@ Desktop and mobile PWA to enable useful manipulation of pdf files such as combin
 The app can be found <a href= 'https://idyllic-capybara-5d7110.netlify.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/pdf-poc">here</a>.
 
 - **Document Tag Manager & Uploaders**   
-<img src="https://github.com/c1b3rt00lk1t/press-uploader-prototype/blob/demo/images/uploader.png?raw=true" width="4%" height="4%" > PWA · JAVASCRIPT · REACT · FIREBASE · CYPRESS    
+<img src="https://github.com/c1b3rt00lk1t/press-uploader-prototype/blob/demo/images/uploader.png?raw=true" width="4%" height="4%" > | PWA · JAVASCRIPT · REACT · FIREBASE · CYPRESS    
 Backend PWA to classify pdf documents with tags and upload them in order to be accessed form across an organization.
 The app can be found <a href= 'https://press-uploader-demo.web.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/press-uploader-prototype/">here</a>.
   
