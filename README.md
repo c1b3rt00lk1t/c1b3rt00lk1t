@@ -47,11 +47,11 @@ The app can be found <a href= 'https://idyllic-capybara-5d7110.netlify.app/'>her
 - **Document Tag Manager & Uploaders**
 <div>
  <img src="https://github.com/c1b3rt00lk1t/press-uploader-prototype/blob/demo/images/uploader.png?raw=true" width="20%" height="20%" >
-
+<span>
 PWA · JAVASCRIPT · REACT · FIREBASE · CYPRESS    
 Backend PWA to classify pdf documents with tags and upload them in order to be accessed form across an organization.
 The app can be found <a href= 'https://press-uploader-demo.web.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/press-uploader-prototype/">here</a>.
-</div>
+</span></div>
 - **Free Tabata**  
 PWA · JAVASCRIPT · REACT · NETLIFY  
 Tabata Timer PWA which can be installed in desktop or mobile to workout offline. The flicker mode during workout can be disabled using the settings.
