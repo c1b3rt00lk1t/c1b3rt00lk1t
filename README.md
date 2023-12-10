@@ -46,7 +46,7 @@
 ### :computer: Showcase Projects 
 - **PDF Utils**  
 PWA · TYPESCRIPT · VITE · REACT · CSS MODULES · CYPRESS  
-Stats: 1950+ lines of code, 350+ commits  
+Stats: *1950+ lines of code, 350+ commits*  
 Desktop and mobile PWA to enable useful manipulation of pdf files such as combine or split files and number or rotates pages.
 The app can be found <a href= 'https://idyllic-capybara-5d7110.netlify.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/pdf-poc">here</a>.
 
@@ -58,7 +58,7 @@ The app can be found <a href= 'https://press-uploader-demo.web.app/'>here</a>. T
   
 - **Press Reader**  
 PWA · JAVASCRIPT · REACT · FIREBASE  
-Stats: 2300+ lines of code, 280+ commits  
+*Stats: 2300+ lines of code, 280+ commits*  
 Frontend mobile-first PWA to distribute tagged pdf documents across an organization.
 The app can be found <a href= 'https://press-reader-demo.web.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/press-reader-prototype/">here</a>.
 
