@@ -59,20 +59,20 @@ A working demo of the app, the code and technical details can be checked <a href
 - **Press Reader**  
 PWA · JAVASCRIPT · REACT · FIREBASE  
 Stats: *2300+ lines of code, 280+ commits*  
-Frontend mobile-first PWA to distribute tagged pdf documents across an organization.
+Frontend mobile-first PWA to distribute tagged pdf documents across an organization.  
 A working demo of the app, the code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/press-reader-prototype/">here</a>.
 
 - **Free Tabata**  
 PWA · JAVASCRIPT · REACT · NETLIFY  
 Stats: *1100+ lines of code, 100+ commits*  
-Tabata Timer PWA which can be installed in desktop or mobile to workout offline. The flicker mode during workout can be disabled using the settings.
+Tabata Timer PWA which can be installed in desktop or mobile to workout offline. The flicker mode during workout can be disabled using the settings.  
 A working demo of the app, the code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/free-tabata">here</a>.
 
 - **Study Timeline**  
 PWA · JAVASCRIPT · FIREBASE · WEBPACK · CSS · BOOTSTRAP · CYPRESS  
 Stats: *1100+ lines of code, 80+ commits*  
 Desktop and mobile PWA that allows to visualize a timeline with details and images.
-It also has a "study mode" in which the items of the timeline are prompted to be answered.
+It also has a "study mode" in which the items of the timeline are prompted to be answered.  
 A working demo of the app, the code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/studyTimeline">here</a>.
 
 
