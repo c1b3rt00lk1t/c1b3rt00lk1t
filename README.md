@@ -47,13 +47,13 @@
 - **PDF Utils**  
 PWA · TYPESCRIPT · VITE · REACT · CSS MODULES · CYPRESS  
 Stats: *1950+ lines of code, 350+ commits*  
-Desktop and mobile PWA to enable useful manipulation of pdf files such as combine or split files and number or rotates pages.
+Desktop and mobile PWA to enable useful manipulation of pdf files such as combine or split files and number or rotates pages.  
 A working demo of the app, the code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/pdf-poc">here</a>.
 
 - **Document Tag Manager**  
 PWA · JAVASCRIPT · REACT · FIREBASE · CYPRESS  
 Stats: *3950+ lines of code, 300+ commits*  
-Backend PWA to classify pdf documents with tags and upload them in order to be accessed form across an organization.
+Backend PWA to classify pdf documents with tags and upload them in order to be accessed form across an organization.  
 A working demo of the app, the code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/press-uploader-prototype/">here</a>.
   
 - **Press Reader**  
