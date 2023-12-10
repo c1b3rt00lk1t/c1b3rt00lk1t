@@ -9,9 +9,10 @@
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
 
 ###  :hammer_and_wrench:  Technical Skills
+*Current stack*
 - **TypeScript** · **JavaScript** · **React**  
 - **Jest** · **Testing Library** · **Cypress**  
-- **PWA** · **Workbox** · **Next** 
+- **PWA** · **Workbox** · 
 - **MSSQL** · **DB2** · **Firestore**  
 - **Webpack** · **DevTools**  
 - **Netlify** · **Firebase** · **Vercel**  
@@ -19,6 +20,9 @@
 - **HTML5** · **CSS3**  
 - **OOP** · **FP** · **TDD**
 
+*Complementary*
+-  **Next** ·  **Node** ·  **Redux**
+  
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
