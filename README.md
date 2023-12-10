@@ -52,25 +52,25 @@ The app can be found <a href= 'https://idyllic-capybara-5d7110.netlify.app/'>her
 
 - **Document Tag Manager**  
 PWA · JAVASCRIPT · REACT · FIREBASE · CYPRESS  
-Stats: 3950+ lines of code, 300+ commits  
+Stats: *3950+ lines of code, 300+ commits*  
 Backend PWA to classify pdf documents with tags and upload them in order to be accessed form across an organization.
 The app can be found <a href= 'https://press-uploader-demo.web.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/press-uploader-prototype/">here</a>.
   
 - **Press Reader**  
 PWA · JAVASCRIPT · REACT · FIREBASE  
-*Stats: 2300+ lines of code, 280+ commits*  
+Stats: *2300+ lines of code, 280+ commits*  
 Frontend mobile-first PWA to distribute tagged pdf documents across an organization.
 The app can be found <a href= 'https://press-reader-demo.web.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/press-reader-prototype/">here</a>.
 
 - **Free Tabata**  
-PWA · JAVASCRIPT · REACT · NETLIFY  ( *Stats: 1100+ lines of code, 100+ commits* )  
-
+PWA · JAVASCRIPT · REACT · NETLIFY
+Stats: *1100+ lines of code, 100+ commits*  
 Tabata Timer PWA which can be installed in desktop or mobile to workout offline. The flicker mode during workout can be disabled using the settings.
 The app can be found <a href= 'https://dulcet-taiyaki-50a307.netlify.app/'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/free-tabata">here</a>.
 
 - **Study Timeline**  
 PWA · JAVASCRIPT · FIREBASE · WEBPACK · CSS · BOOTSTRAP · CYPRESS  
-Stats: 1100+ lines of code, 80+ commits  
+Stats: *1100+ lines of code, 80+ commits*  
 Desktop and mobile PWA that allows to visualize a timeline with details and images.
 It also has a "study mode" in which the items of the timeline are prompted to be answered.
 The app can be found <a href= 'https://studytimeline-c92b5.web.app'>here</a>. The code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/studyTimeline">here</a>.
