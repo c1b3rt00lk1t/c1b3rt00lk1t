@@ -12,7 +12,7 @@
 *Current stack*
 - **TypeScript** · **JavaScript** · **React**  
 - **Jest** · **Testing Library** · **Cypress**  
-- **PWA** · **Workbox** · 
+- **PWA** · **Workbox** · **Vite**
 - **MSSQL** · **DB2** · **Firestore**  
 - **Webpack** · **DevTools**  
 - **Netlify** · **Firebase** · **Vercel**  
@@ -22,6 +22,7 @@
 
 *Complementary*
 -  **Next** ·  **Node** ·  **Redux**
+
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
