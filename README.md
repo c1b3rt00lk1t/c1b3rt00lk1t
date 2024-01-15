@@ -44,6 +44,12 @@
 - I speak **English**, **Spanish**, **Catalan**, **Italian** and **Esperanto**
 
 ### :computer: Showcase Projects 
+- **Let's share links**  
+TYPESCRIPT · NEXT · ANTD COMPONENTS · CSS MODULES · CYPRESS · TESTING LIBRARY
+Stats: *450+ lines of code, 80+ commits*  
+Web app providing short links and QR code for an input URL. When the app is accessed with the short link, it redirects the user to the original URL.
+A working demo of the app, the code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/shorten-link">here</a>.  
+
 - **PDF Utils**  
 PWA · TYPESCRIPT · VITE · REACT · CSS MODULES · CYPRESS  
 Stats: *1950+ lines of code, 350+ commits*  
