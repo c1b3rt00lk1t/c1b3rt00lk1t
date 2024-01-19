@@ -50,6 +50,12 @@ Stats: *450+ lines of code, 80+ commits*
 Web app providing short links and QR code for an input URL. When the app is accessed with the short link, it redirects the user to the original URL.  
 A working demo of the app, the code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/shorten-link">here</a>.  
 
+- **Press Reader**  
+PWA · JAVASCRIPT · REACT · FIREBASE · CYPRESS    
+Stats: *2300+ lines of code, 380+ commits*  
+Frontend mobile-first PWA to distribute tagged pdf documents across an organization.  
+A working demo of the app, the code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/press-reader-prototype/">here</a>.
+
 - **PDF Utils**  
 PWA · TYPESCRIPT · VITE · REACT · CSS MODULES · CYPRESS  
 Stats: *1950+ lines of code, 350+ commits*  
@@ -62,12 +68,6 @@ Stats: *3950+ lines of code, 300+ commits*
 Desktop PWA to classify pdf documents with tags and upload them in order to be accessed form across an organization.  
 A working demo of the app, the code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/press-uploader-prototype/">here</a>.
   
-- **Press Reader**  
-PWA · JAVASCRIPT · REACT · FIREBASE · CYPRESS    
-Stats: *2300+ lines of code, 380+ commits*  
-Frontend mobile-first PWA to distribute tagged pdf documents across an organization.  
-A working demo of the app, the code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/press-reader-prototype/">here</a>.
-
 - **Free Tabata**  
 PWA · JAVASCRIPT · REACT · NETLIFY  
 Stats: *1100+ lines of code, 100+ commits*  
