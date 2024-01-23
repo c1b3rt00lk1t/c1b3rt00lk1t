@@ -82,6 +82,7 @@ It also has a "study mode" in which the items of the timeline are prompted to be
 A working demo of the app, the code and technical details can be checked <a href="https://github.com/c1b3rt00lk1t/studyTimeline">here</a>.
 
 
+
 ### :compass: My Stats 
 
 
