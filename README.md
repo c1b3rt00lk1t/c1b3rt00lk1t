@@ -22,6 +22,7 @@
 
 *Complementary*
 -  **Next** ·  **Node** ·  **Redux**
+-  **Docusaurus**
 <br></br>
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
