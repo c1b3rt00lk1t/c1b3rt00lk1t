@@ -4,7 +4,7 @@
 - :arrows_counterclockwise:  I started my programming journey with C programs running in DSPs (digital signal processors) as a <a href='https://upcommons.upc.edu/handle/2099.1/3562'> telecom engineer</a> and then I spent a decade working in Datawarehousing, before I rediscovered Javascript...
 - 🛠️ In my journey through **international teams** I have developed skills such as **requirement gathering** and **analysis**, **agile teamwork**, **data modeling** and **architecture**, processes and database **performance optimization**.
 - ⚡ Fun fact: I must admit that I used to have a wrongly biased opinion about Javascript, but the ES6+ revolution was a delightful surprise and getting to know React and Typescript completed my full conversion :)
-- :dart: My best practices include prioritizing **official documentation** over tutorials for a **deep understanding** of technologies, consistent **testing** practices, **performance** optimization and emphasize **root cause analysis** while adopting **practical solutions** when needed.
+- 🎯 My best practices include prioritizing **official documentation** over tutorials for a **deep understanding** of technologies, consistent **testing** practices, **performance** optimization and emphasize **root cause analysis** while adopting **practical solutions** when needed.
 - 🥊 IT is both my job and my hobby. When I am not programming or learning about IT, I like to play **chess**, practice some **boxing** or enjoying a **BBQ** with my friends.
 - 🌱 I am currently deepening my study of blockchain technology, you are always learning in this world, learning never ends!
 - 📫 How to reach me: c1b3rt00lk1t@protonmail.com
