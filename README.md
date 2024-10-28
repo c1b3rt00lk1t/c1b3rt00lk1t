@@ -1,7 +1,7 @@
 ### :man_technologist: About Me 
 
 - 🔭 I’m a **Software Engineer** with +15 years of experience, convinced **Scrum/SAFe** practitioner, currently enjoying the **JavaScript ES6+** ecosystem with focus on **optimization**, **performance**, **testing** and **scalability** with **Typescript**.
-- :arrows_counterclockwise:  I started my programming journey with C programs running in DSPs (digital signal processors) as a <a href='https://upcommons.upc.edu/handle/2099.1/3562'> telecom engineer</a> and then I spent a decade working in Datawarehousing, before I rediscovered Javascript...
+- :arrows_counterclockwise:  I started my programming journey with C programs running in DSPs (digital signal processors) as a telecom engineer and then I spent a decade working in Datawarehousing, before I rediscovered Javascript...
 - 🛠️ In my journey through **international teams** I have developed skills such as **requirement gathering** and **analysis**, **agile teamwork**, **data modeling** and **architecture**, processes and database **performance optimization**.
 - ⚡ Fun fact: I must admit that I used to have a wrongly biased opinion about Javascript, but the ES6+ revolution was a delightful surprise and getting to know React and Typescript completed my full conversion :)
 - 🎯 My best practices include prioritizing **official documentation** over tutorials for a **deep understanding** of technologies, consistent **testing** practices, **performance** optimization and emphasize **root cause analysis** while adopting **practical solutions** when needed.
