@@ -88,7 +88,7 @@ A working demo of the app, the code and technical details can be checked <a href
 ### :compass: My Stats 
 
 
-[![Top Langs](http://github-readme-stats-c1b3rt00lk1ts-projects.vercel.app/api/top-langs/?username=c1b3rt00lk1t&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](http://github-readme-stats-c1b3rt00lk1ts-projects.vercel.app/api/top-langs/?username=c1b3rt00lk1t&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c1b3rt00lk1t&theme=dark&background=000000)](https://git.io/streak-stats)  
 
